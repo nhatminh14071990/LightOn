@@ -12,6 +12,8 @@
 		83ECC2CC1F6938710022C6A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83ECC2CA1F6938710022C6A0 /* Main.storyboard */; };
 		83ECC2CE1F6938710022C6A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83ECC2CD1F6938710022C6A0 /* Assets.xcassets */; };
 		83ECC2D11F6938710022C6A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83ECC2CF1F6938710022C6A0 /* LaunchScreen.storyboard */; };
+		83ECC2DE1F693A200022C6A0 /* LightOff.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83ECC2DC1F693A200022C6A0 /* LightOff.jpg */; };
+		83ECC2DF1F693A200022C6A0 /* LightOn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 83ECC2DD1F693A200022C6A0 /* LightOn.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		83ECC2CD1F6938710022C6A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83ECC2D01F6938710022C6A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83ECC2D21F6938710022C6A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83ECC2DC1F693A200022C6A0 /* LightOff.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LightOff.jpg; sourceTree = "<group>"; };
+		83ECC2DD1F693A200022C6A0 /* LightOn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LightOn.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		83ECC2C51F6938700022C6A0 /* LightOn */ = {
 			isa = PBXGroup;
 			children = (
+				83ECC2DC1F693A200022C6A0 /* LightOff.jpg */,
+				83ECC2DD1F693A200022C6A0 /* LightOn.jpg */,
 				83ECC2C61F6938710022C6A0 /* AppDelegate.swift */,
 				83ECC2C81F6938710022C6A0 /* ViewController.swift */,
 				83ECC2CA1F6938710022C6A0 /* Main.storyboard */,
@@ -125,6 +131,8 @@
 			files = (
 				83ECC2D11F6938710022C6A0 /* LaunchScreen.storyboard in Resources */,
 				83ECC2CE1F6938710022C6A0 /* Assets.xcassets in Resources */,
+				83ECC2DE1F693A200022C6A0 /* LightOff.jpg in Resources */,
+				83ECC2DF1F693A200022C6A0 /* LightOn.jpg in Resources */,
 				83ECC2CC1F6938710022C6A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
